@@ -36,5 +36,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# Plantify
->>>>>>> 809ef3467121205ac068d8bf27b5428317967fa2
